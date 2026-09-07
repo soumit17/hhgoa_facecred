@@ -18,7 +18,7 @@ export default function App() {
         <div className="brand">
           <span className="brand__mark">◆</span>
           <div>
-            <div className="brand__name">FaceChain</div>
+            <div className="brand__name">FaceCred</div>
             <div className="brand__sub">Identity &amp; Blockchain Verification</div>
           </div>
         </div>
