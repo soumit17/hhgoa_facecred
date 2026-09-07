@@ -1,0 +1,8 @@
+opencv-python-headless
+requests
+pillow
+matplotlib
+numpy
+face_recognition
+web3
+ipywidgets
