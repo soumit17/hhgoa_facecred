@@ -1,0 +1,14 @@
+# Node / Vite
+node_modules/
+frontend/dist/
+
+# Runtime data (the DB is recreated on first run; uploads are local)
+backend/data/app.db
+backend/data/app.db-wal
+backend/data/app.db-shm
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
