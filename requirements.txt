@@ -6,3 +6,4 @@ numpy
 face_recognition
 web3
 ipywidgets
+python-dotenv
